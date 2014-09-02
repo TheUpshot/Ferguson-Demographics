@@ -1,7 +1,7 @@
 Ferguson Demographics
 =====================
 
-Census Bureau data from an analysis performed for The Upshot by [Andrew Beveridge](https://www.socialexplorer.com/Andy-Beveridge), a sociology professor at Queens College, showing that there are 117 communities of 5,000 or more people in the United States that, like Ferguson, Mo., were over 50 percent white in 1990 and shifted to over 50 percent black in 2010. Columns beginning with `pernh` indicate percent non-Hispanic population, so `pernhblack2000` means percent non-Hispanic black in 2000. `HHI` stands for household income.
+This data shows the 177 communities of at least 5,000 population that were at least 50% white in 1990 and at least 50% black in 2010, according to the Census Bureau. Population and racial/ethnic percentages are from the 1990, 2000 and 2010 censuses. Median household income is from the 2012 ACS 5-year estimates. Columns beginning with `pernh` indicate percent non-Hispanic population, so `pernhblack2000` means percent non-Hispanic black in 2000. `HHI` stands for household income.
 
 [View or download the CSV file](https://github.com/TheUpshot/Ferguson-Demographics/blob/master/racial_change.csv)
 
@@ -11,4 +11,4 @@ Census Bureau data from an analysis performed for The Upshot by [Andrew Beveridg
 
 ## Source
 
-* [The Census Bureau](http://census.gov/)
+* [The Census Bureau](http://census.gov/) data, analyzed by [Andrew Beveridge](https://www.socialexplorer.com/Andy-Beveridge).
